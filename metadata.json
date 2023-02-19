@@ -1,0 +1,15 @@
+{
+    "name": "sexy nft",
+    "description": "This is a one-of-a-kind digital collectible!",
+    "image": "https://ipfs.filebase.io/ipfs/QmPxMV4R1YnQ6koDTmuG46kJSaT9SC2KE2fXGaBcWnpuow",
+    "attributes": [
+      {
+        "trait_type": "Value",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      }
+    ]
+  }
